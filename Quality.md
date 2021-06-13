@@ -1,24 +1,23 @@
-**Security** - defines how well the system restricts the unauthorized access  
-**Performance** – shows the response of the system to performing certain actions for a certain period of time.
+1. **Security** - defines how well the system restricts the unauthorized access  
 
-**Interoperability** is an attribute of the system or part of the system that is responsible for its operation and the transmission of data and its exchange with other external systems.
+3. **Performance** – shows the response of the system to performing certain actions for a certain period of time.
 
-**Usability** is one of the most important attributes, because, unlike in cases with other attributes, users can see directly how well this attribute of the system is worked out.
+3. **Interoperability** is an attribute of the system or part of the system that is responsible for its operation and the transmission of data and its exchange with other external systems.
 
-**Reliability** is an attribute of the system responsible for the ability to continue to operate under predefined conditions.
+4. **Usability** most important because users can see directly how well this attribute of the system is worked out, how easy to use handle and understand the system.
 
-**Availability** is part of reliability and is expressed as the ratio of the available system time to the total working time.
+5. **Reliability** is the quality of system being trustworthy or of performing consistently well.
 
-**Security** is responsible for the ability of the system to reduce the likelihood of malicious or accidental actions as well as the possibility of theft or loss of information.
+6. **Availability** is part of reliability and is expressed as the ratio of the available system time to the total working time.
 
-**Maintainability** is the ability of the system to support changes.
+7. **Maintainability** it is a statistical measure of the time to restore the system to fully operational status, once it has experienced a fault or say mean time to repair
 
-**Modifiability** determines how many common changes need to be made to the system to make changes to each individual item.
+8. **Modifiability** refers to the cost of change and refers to the ease with which a software system can accommodate changes.
 
-**Testability** shows how well the system allows performing tests, according to predefined criteria.
+9. **Testability** shows how well the system allows performing tests, according to predefined criteria.
 
-**Scalability** is the ability of the system to handle load increases without decreasing performance, or the possibility to rapidly increase the load.
+10. **Scalability** is the ability of the system to handle load increases without decreasing performance, or the possibility to rapidly increase the load.
 
-**Reusability** is a chance of using a component or system in other components/systems with small or no change.
+11. **Reusability** is a chance of using a component or system in other components/systems with small or no change.
 
-**Supportability** is the ability of the system to provide useful information for identifying and solving problems.
+12. **Supportability** is the ability of the system to provide useful information for identifying and solving problems.
